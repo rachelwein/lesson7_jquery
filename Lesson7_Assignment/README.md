@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/22/17
 
 ### Student Name:  
-(First and Last Name)
+Rachel Weinstock
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In Lesson 7, I built an application that displays the many elements containing a recipes ingredients and instructions when the user clicks the certain headers.I used jQuery in order to complete this task.I then implemented multiple drill exercises on the application.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery allows developers to perform common Javascript tasks with the use of minimal code. 
+2. You can group jQuery statements into functions and many jQuery methods serve for more than one function.
+3. Every jQuery statement starts with $ and jQuery visual animation methods. 
